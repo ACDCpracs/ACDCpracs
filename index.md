@@ -1,5 +1,5 @@
 
-<h1 align="center"> A C :zap: D C</h1>  
+<h1 align="center"> A C ⚡ D C</h1>  
   
 ***
 
@@ -29,9 +29,9 @@ Hay 2 repositorios especiales que sirven:
 ### QUIEN SOMOS?  
   
 Somos un grupo de estudiantes de la [**Universidad de Alicante o UA**](https://www.ua.es/ "Universidad de Alicante, 40 años enseñando a pensar.") que participamos en la asignatura de [***Arquitectura de los Computadores***](https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wcodasi=34020&wlengua=es&scaca=2020-21 "Rendimiento de lo computadores yo si sé.").  
-Nuestro grupo se llama **AC:zap:DC** o **Arquitecura de Computadores :zap: De Cervezas**, en tributo al grupo de música con mismo nombre.  
+Nuestro grupo se llama **AC⚡DC** o **Arquitecura de Computadores ⚡ De Cervezas**, en tributo al grupo de música con mismo nombre.  
 
-AC:zap:DC se compone por 6 integrantes:
+AC⚡DC se compone por 6 integrantes:
 - [Angela @kssummit](https://github.com/kssummit "La gfa que nos hace madrugar... a nosotros... animales nocturnos... eso solo se hace o por amor o por 6 creditos")
 - [Alberto @Acs146](https://github.com/Acs146 "El puntillos que se queja de todo que manda 3000 audios de 15 segundos, pero gracias a él salen mejor las cosas")
 - [Jesus @red1503](https://github.com/red1503 "El jefaso mandamás que hace milestones de 3 dias... ni en rockstar curran tanto en tan poco tiempo")
